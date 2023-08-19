@@ -1,0 +1,21 @@
+{
+  "name": "DiekerIT_website",
+  "version": "1.0.0",
+  "description": "Website for DiekerIT, a leading IT services company based in Germany.",
+  "main": "index.php",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
